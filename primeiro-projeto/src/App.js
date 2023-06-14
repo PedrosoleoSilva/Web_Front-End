@@ -9,7 +9,8 @@ import RandomNumber from './components/RandomNumber';
 import Name from './components/Name';
 
 const list1 = ["Corinthians","Palmeira","Santos","São Paulo"]
-const list2 = ["Real Madri","Barcelona"]
+const list2 = ["Real Madri","Barcelona"];
+
 
 function App() {
   const [contador, setContador] = useState(0)
